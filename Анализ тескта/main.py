@@ -25,4 +25,3 @@ open_file.seek(0)
 print(f"Содержимое файла analysis.txt:\n{open_file.read()}\n")
 open_file.close()
 
-# зачёт!
